@@ -4,7 +4,7 @@ go 1.26
 
 require (
 	github.com/apernet/quic-go v0.59.1-0.20260425001925-6c6cc9bcb716
-	github.com/xtls/xray-core v26.7.28
+	github.com/xtls/xray-core 5ca6f4b7d4dc20a881d4330e498892697627ec0c
 	golang.org/x/mobile v0.0.0-20260709172247-6129f5bee9d5
 )
 
